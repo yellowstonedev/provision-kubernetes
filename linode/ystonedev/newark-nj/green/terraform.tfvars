@@ -1,5 +1,5 @@
 label = "green"
-k8s_version = "1.23"
+k8s_version = "1.25"
 region = "us-east"
 pools = [
   {

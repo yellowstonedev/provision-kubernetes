@@ -31,8 +31,8 @@ variable "pools" {
   }))
   default = [
     {
-      type = "g6-nanode-1"
-      count = 3
+      type = "g6-standard-2"
+      count = 2
     }
   ]
 }
